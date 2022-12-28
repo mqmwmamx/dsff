@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Augustzyzx/UraniumXhub/main/Mobile.lua"))()
-s
+loadstrig(game:HttpGet("https://raw.githubusercontent.com/Augustzyzx/UraniumXhub/main/Mobile.lua"))()
+hi
